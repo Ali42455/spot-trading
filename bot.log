@@ -1,0 +1,198 @@
+2026-10-30 21:12:10 | INFO | === BYBIT SPOT BOT | LIVE=True | TESTNET=False | 50 USDT/trade | max 3 trade ===
+2026-10-30 21:12:12 | INFO | USDT: wadar 5.13 | bilaash 5.13
+2026-10-30 21:12:24 | WARNING | ZECUSDT: Bybit SPOT kuma jiro (ama lama ganacsan karo) — waa laga boodayaa
+2026-10-30 21:12:24 | INFO | Coin-ka la baadhayo: 18
+2026-10-30 21:12:24 | INFO | Trade-yada furan: ma jiraan
+2026-10-30 21:20:20 | INFO | === BYBIT SPOT BOT | LIVE=True | TESTNET=False | 50 USDT/trade | max 3 trade ===
+2026-10-30 21:20:22 | INFO | USDT: wadar 5.13 | bilaash 5.13
+2026-10-30 21:20:27 | INFO | Coin-ka la baadhayo: 19
+2026-10-30 21:20:27 | INFO | Trade-yada furan: ma jiraan
+2026-10-30 21:25:18 | INFO | === BYBIT SPOT BOT | LIVE=True | TESTNET=False | 50 USDT/trade | max 3 trade ===
+2026-10-30 21:25:21 | INFO | USDT: wadar 71.98 | bilaash 71.98
+2026-10-30 21:25:31 | INFO | Coin-ka la baadhayo: 19
+2026-10-30 21:25:31 | INFO | Trade-yada furan: ma jiraan
+2026-10-30 21:30:06 | DEBUG | BTCUSDT: EMA20 jiirad -0.130% (aad u yar)
+2026-10-30 21:30:07 | DEBUG | ETHUSDT: EMA20 jiirad -0.043% (aad u yar)
+2026-10-30 21:30:08 | DEBUG | SOLUSDT: EMA20 jiirad -0.186% (aad u yar)
+2026-10-30 21:30:08 | DEBUG | XRPUSDT: EMA20 jiirad -0.239% (aad u yar)
+2026-10-30 21:30:09 | DEBUG | BNBUSDT: EMA20 jiirad -0.076% (aad u yar)
+2026-10-30 21:30:09 | DEBUG | LINKUSDT: EMA20 jiirad -0.041% (aad u yar)
+2026-10-30 21:30:10 | DEBUG | NEARUSDT: EMA20 jiirad -0.125% (aad u yar)
+2026-10-30 21:30:10 | DEBUG | SUIUSDT: EMA20 jiirad -0.160% (aad u yar)
+2026-10-30 21:30:11 | DEBUG | AAVEUSDT: EMA20 jiirad 0.049% (aad u yar)
+2026-10-30 21:30:11 | DEBUG | UNIUSDT: EMA20 jiirad -0.279% (aad u yar)
+2026-10-30 21:30:12 | DEBUG | DOGEUSDT: EMA20 jiirad -0.222% (aad u yar)
+2026-10-30 21:30:12 | DEBUG | ADAUSDT: EMA20 jiirad -0.061% (aad u yar)
+2026-10-30 21:30:13 | DEBUG | TRXUSDT: EMA20 jiirad -0.206% (aad u yar)
+2026-10-30 21:30:13 | DEBUG | ONDOUSDT: EMA20 jiirad 0.040% (aad u yar)
+2026-10-30 21:30:14 | DEBUG | MNTUSDT: EMA20 jiirad -0.178% (aad u yar)
+2026-10-30 21:30:14 | DEBUG | LTCUSDT: EMA20 jiirad -0.197% (aad u yar)
+2026-10-30 21:30:15 | DEBUG | WLDUSDT: EMA20 jiirad -0.201% (aad u yar)
+2026-10-30 21:30:17 | DEBUG | HYPEUSDT: EMA20 jiirad -0.432% (aad u yar)
+2026-10-30 21:30:17 | DEBUG | QNTUSDT: EMA20 jiirad -0.519% (aad u yar)
+2026-10-30 21:30:17 | INFO | Scan dhammaaday (19 coin): fursad ma jirto
+2026-10-30 21:35:07 | DEBUG | BTCUSDT: EMA20 jiirad -0.155% (aad u yar)
+2026-10-30 21:35:08 | DEBUG | ETHUSDT: EMA20 jiirad -0.115% (aad u yar)
+2026-10-30 21:35:09 | DEBUG | SOLUSDT: EMA20 jiirad -0.223% (aad u yar)
+2026-10-30 21:35:09 | DEBUG | XRPUSDT: EMA20 jiirad -0.237% (aad u yar)
+2026-10-30 21:35:11 | DEBUG | BNBUSDT: EMA20 jiirad -0.089% (aad u yar)
+2026-10-30 21:35:13 | DEBUG | LINKUSDT: EMA20 jiirad -0.112% (aad u yar)
+2026-10-30 21:35:14 | DEBUG | NEARUSDT: EMA20 jiirad -0.171% (aad u yar)
+2026-10-30 21:35:14 | DEBUG | SUIUSDT: EMA20 jiirad -0.223% (aad u yar)
+2026-10-30 21:35:15 | DEBUG | AAVEUSDT: EMA20 jiirad -0.028% (aad u yar)
+2026-10-30 21:35:16 | DEBUG | UNIUSDT: EMA20 jiirad -0.368% (aad u yar)
+2026-10-30 21:35:16 | DEBUG | DOGEUSDT: EMA20 jiirad -0.245% (aad u yar)
+2026-10-30 21:35:17 | DEBUG | ADAUSDT: EMA20 jiirad -0.130% (aad u yar)
+2026-10-30 21:35:20 | DEBUG | TRXUSDT: EMA20 jiirad -0.255% (aad u yar)
+2026-10-30 21:35:20 | DEBUG | ONDOUSDT: EMA20 jiirad -0.076% (aad u yar)
+2026-10-30 21:35:21 | DEBUG | MNTUSDT: EMA20 jiirad -0.232% (aad u yar)
+2026-10-30 21:35:21 | DEBUG | LTCUSDT: EMA20 jiirad -0.221% (aad u yar)
+2026-10-30 21:35:22 | DEBUG | WLDUSDT: EMA20 jiirad -0.426% (aad u yar)
+2026-10-30 21:35:23 | DEBUG | HYPEUSDT: EMA20 jiirad -0.484% (aad u yar)
+2026-10-30 21:35:23 | DEBUG | QNTUSDT: EMA20 jiirad -0.689% (aad u yar)
+2026-10-30 21:35:24 | INFO | Scan dhammaaday (19 coin): fursad ma jirto
+2026-10-30 21:40:07 | DEBUG | BTCUSDT: EMA20 jiirad -0.181% (aad u yar)
+2026-10-30 21:40:08 | DEBUG | ETHUSDT: EMA20 jiirad -0.150% (aad u yar)
+2026-10-30 21:40:09 | DEBUG | SOLUSDT: EMA20 jiirad -0.243% (aad u yar)
+2026-10-30 21:40:10 | DEBUG | XRPUSDT: EMA20 jiirad -0.216% (aad u yar)
+2026-10-30 21:40:10 | DEBUG | BNBUSDT: EMA20 jiirad -0.110% (aad u yar)
+2026-10-30 21:40:11 | DEBUG | LINKUSDT: EMA20 jiirad -0.147% (aad u yar)
+2026-10-30 21:40:11 | DEBUG | NEARUSDT: EMA20 jiirad -0.188% (aad u yar)
+2026-10-30 21:40:12 | DEBUG | SUIUSDT: EMA20 jiirad -0.288% (aad u yar)
+2026-10-30 21:40:13 | DEBUG | AAVEUSDT: EMA20 jiirad -0.056% (aad u yar)
+2026-10-30 21:40:13 | DEBUG | UNIUSDT: EMA20 jiirad -0.418% (aad u yar)
+2026-10-30 21:40:14 | DEBUG | DOGEUSDT: EMA20 jiirad -0.253% (aad u yar)
+2026-10-30 21:40:15 | DEBUG | ADAUSDT: EMA20 jiirad -0.181% (aad u yar)
+2026-10-30 21:40:15 | DEBUG | TRXUSDT: EMA20 jiirad -0.279% (aad u yar)
+2026-10-30 21:40:16 | DEBUG | ONDOUSDT: EMA20 jiirad -0.165% (aad u yar)
+2026-10-30 21:40:17 | DEBUG | MNTUSDT: EMA20 jiirad -0.278% (aad u yar)
+2026-10-30 21:40:17 | DEBUG | LTCUSDT: EMA20 jiirad -0.245% (aad u yar)
+2026-10-30 21:40:18 | DEBUG | WLDUSDT: EMA20 jiirad -0.623% (aad u yar)
+2026-10-30 21:40:19 | DEBUG | HYPEUSDT: EMA20 jiirad -0.540% (aad u yar)
+2026-10-30 21:40:19 | DEBUG | QNTUSDT: EMA20 jiirad -0.803% (aad u yar)
+2026-10-30 21:40:19 | INFO | Scan dhammaaday (19 coin): fursad ma jirto
+2026-10-30 21:45:07 | DEBUG | BTCUSDT: EMA20 jiirad -0.200% (aad u yar)
+2026-10-30 21:45:07 | DEBUG | ETHUSDT: EMA20 jiirad -0.168% (aad u yar)
+2026-10-30 21:45:08 | DEBUG | SOLUSDT: EMA20 jiirad -0.240% (aad u yar)
+2026-10-30 21:45:08 | DEBUG | XRPUSDT: EMA20 jiirad -0.186% (aad u yar)
+2026-10-30 21:45:09 | DEBUG | BNBUSDT: EMA20 jiirad -0.123% (aad u yar)
+2026-10-30 21:45:09 | DEBUG | LINKUSDT: EMA20 jiirad -0.151% (aad u yar)
+2026-10-30 21:45:10 | DEBUG | NEARUSDT: EMA20 jiirad -0.221% (aad u yar)
+2026-10-30 21:45:10 | DEBUG | SUIUSDT: EMA20 jiirad -0.318% (aad u yar)
+2026-10-30 21:45:11 | DEBUG | AAVEUSDT: EMA20 jiirad -0.095% (aad u yar)
+2026-10-30 21:45:12 | DEBUG | UNIUSDT: EMA20 jiirad -0.417% (aad u yar)
+2026-10-30 21:45:12 | DEBUG | DOGEUSDT: EMA20 jiirad -0.254% (aad u yar)
+2026-10-30 21:45:13 | DEBUG | ADAUSDT: EMA20 jiirad -0.219% (aad u yar)
+2026-10-30 21:45:14 | DEBUG | TRXUSDT: EMA20 jiirad -0.298% (aad u yar)
+2026-10-30 21:45:14 | DEBUG | ONDOUSDT: EMA20 jiirad -0.204% (aad u yar)
+2026-10-30 21:45:15 | DEBUG | MNTUSDT: EMA20 jiirad -0.315% (aad u yar)
+2026-10-30 21:45:16 | DEBUG | LTCUSDT: EMA20 jiirad -0.261% (aad u yar)
+2026-10-30 21:45:16 | DEBUG | WLDUSDT: EMA20 jiirad -0.624% (aad u yar)
+2026-10-30 21:45:17 | DEBUG | HYPEUSDT: EMA20 jiirad -0.571% (aad u yar)
+2026-10-30 21:45:18 | DEBUG | QNTUSDT: EMA20 jiirad -0.858% (aad u yar)
+2026-10-30 21:45:18 | INFO | Scan dhammaaday (19 coin): fursad ma jirto
+2026-10-30 21:50:06 | DEBUG | BTCUSDT: EMA20 jiirad -0.229% (aad u yar)
+2026-10-30 21:50:07 | DEBUG | ETHUSDT: EMA20 jiirad -0.202% (aad u yar)
+2026-10-30 21:50:07 | DEBUG | SOLUSDT: EMA20 jiirad -0.268% (aad u yar)
+2026-10-30 21:50:08 | DEBUG | XRPUSDT: EMA20 jiirad -0.191% (aad u yar)
+2026-10-30 21:50:08 | DEBUG | BNBUSDT: EMA20 jiirad -0.151% (aad u yar)
+2026-10-30 21:50:09 | DEBUG | LINKUSDT: EMA20 jiirad -0.184% (aad u yar)
+2026-10-30 21:50:09 | DEBUG | NEARUSDT: EMA20 jiirad -0.251% (aad u yar)
+2026-10-30 21:50:10 | DEBUG | SUIUSDT: EMA20 jiirad -0.352% (aad u yar)
+2026-10-30 21:50:10 | DEBUG | AAVEUSDT: EMA20 jiirad -0.116% (aad u yar)
+2026-10-30 21:50:11 | DEBUG | UNIUSDT: EMA20 jiirad -0.433% (aad u yar)
+2026-10-30 21:50:12 | DEBUG | DOGEUSDT: EMA20 jiirad -0.291% (aad u yar)
+2026-10-30 21:50:12 | DEBUG | ADAUSDT: EMA20 jiirad -0.267% (aad u yar)
+2026-10-30 21:50:13 | DEBUG | TRXUSDT: EMA20 jiirad -0.301% (aad u yar)
+2026-10-30 21:50:13 | DEBUG | ONDOUSDT: EMA20 jiirad -0.283% (aad u yar)
+2026-10-30 21:50:14 | DEBUG | MNTUSDT: EMA20 jiirad -0.341% (aad u yar)
+2026-10-30 21:50:14 | DEBUG | LTCUSDT: EMA20 jiirad -0.303% (aad u yar)
+2026-10-30 21:50:15 | DEBUG | WLDUSDT: EMA20 jiirad -0.708% (aad u yar)
+2026-10-30 21:50:15 | DEBUG | HYPEUSDT: EMA20 jiirad -0.621% (aad u yar)
+2026-10-30 21:50:16 | DEBUG | QNTUSDT: EMA20 jiirad -0.858% (aad u yar)
+2026-10-30 21:50:16 | INFO | Scan dhammaaday (19 coin): fursad ma jirto
+2026-10-30 21:55:06 | DEBUG | BTCUSDT: EMA20 jiirad -0.238% (aad u yar)
+2026-10-30 21:55:07 | DEBUG | ETHUSDT: EMA20 jiirad -0.189% (aad u yar)
+2026-10-30 21:55:08 | DEBUG | SOLUSDT: EMA20 jiirad -0.236% (aad u yar)
+2026-10-30 21:55:09 | DEBUG | XRPUSDT: EMA20 jiirad -0.173% (aad u yar)
+2026-10-30 21:55:10 | DEBUG | BNBUSDT: EMA20 jiirad -0.158% (aad u yar)
+2026-10-30 21:55:11 | DEBUG | LINKUSDT: EMA20 jiirad -0.172% (aad u yar)
+2026-10-30 21:55:11 | DEBUG | NEARUSDT: EMA20 jiirad -0.212% (aad u yar)
+2026-10-30 21:55:12 | DEBUG | SUIUSDT: EMA20 jiirad -0.341% (aad u yar)
+2026-10-30 21:55:12 | DEBUG | AAVEUSDT: EMA20 jiirad -0.097% (aad u yar)
+2026-10-30 21:55:13 | DEBUG | UNIUSDT: EMA20 jiirad -0.353% (aad u yar)
+2026-10-30 21:55:13 | DEBUG | DOGEUSDT: EMA20 jiirad -0.298% (aad u yar)
+2026-10-30 21:55:14 | DEBUG | ADAUSDT: EMA20 jiirad -0.271% (aad u yar)
+2026-10-30 21:55:14 | DEBUG | TRXUSDT: EMA20 jiirad -0.295% (aad u yar)
+2026-10-30 21:55:15 | DEBUG | ONDOUSDT: EMA20 jiirad -0.244% (aad u yar)
+2026-10-30 21:55:15 | DEBUG | MNTUSDT: EMA20 jiirad -0.341% (aad u yar)
+2026-10-30 21:55:16 | DEBUG | LTCUSDT: EMA20 jiirad -0.316% (aad u yar)
+2026-10-30 21:55:16 | DEBUG | WLDUSDT: EMA20 jiirad -0.661% (aad u yar)
+2026-10-30 21:55:17 | DEBUG | HYPEUSDT: EMA20 jiirad -0.589% (aad u yar)
+2026-10-30 21:55:17 | DEBUG | QNTUSDT: EMA20 jiirad -0.741% (aad u yar)
+2026-10-30 21:55:17 | INFO | Scan dhammaaday (19 coin): fursad ma jirto
+2026-10-30 22:00:07 | DEBUG | BTCUSDT: EMA20 jiirad -0.233% (aad u yar)
+2026-10-30 22:00:08 | DEBUG | ETHUSDT: EMA20 jiirad -0.145% (aad u yar)
+2026-10-30 22:00:08 | DEBUG | SOLUSDT: EMA20 jiirad -0.175% (aad u yar)
+2026-10-30 22:00:09 | DEBUG | XRPUSDT: EMA20 jiirad -0.138% (aad u yar)
+2026-10-30 22:00:09 | DEBUG | BNBUSDT: EMA20 jiirad -0.148% (aad u yar)
+2026-10-30 22:00:10 | DEBUG | LINKUSDT: EMA20 jiirad -0.108% (aad u yar)
+2026-10-30 22:00:11 | DEBUG | NEARUSDT: EMA20 jiirad -0.145% (aad u yar)
+2026-10-30 22:00:11 | DEBUG | SUIUSDT: EMA20 jiirad -0.305% (aad u yar)
+2026-10-30 22:00:12 | DEBUG | AAVEUSDT: EMA20 jiirad -0.054% (aad u yar)
+2026-10-30 22:00:12 | DEBUG | UNIUSDT: EMA20 jiirad -0.249% (aad u yar)
+2026-10-30 22:00:13 | DEBUG | DOGEUSDT: EMA20 jiirad -0.280% (aad u yar)
+2026-10-30 22:00:13 | DEBUG | ADAUSDT: EMA20 jiirad -0.221% (aad u yar)
+2026-10-30 22:00:14 | DEBUG | TRXUSDT: EMA20 jiirad -0.278% (aad u yar)
+2026-10-30 22:00:14 | DEBUG | ONDOUSDT: EMA20 jiirad -0.123% (aad u yar)
+2026-10-30 22:00:15 | DEBUG | MNTUSDT: EMA20 jiirad -0.299% (aad u yar)
+2026-10-30 22:00:16 | DEBUG | LTCUSDT: EMA20 jiirad -0.291% (aad u yar)
+2026-10-30 22:00:16 | DEBUG | WLDUSDT: EMA20 jiirad -0.645% (aad u yar)
+2026-10-30 22:00:17 | DEBUG | HYPEUSDT: EMA20 jiirad -0.515% (aad u yar)
+2026-10-30 22:00:18 | DEBUG | QNTUSDT: EMA20 jiirad -0.575% (aad u yar)
+2026-10-30 22:00:18 | INFO | Scan dhammaaday (19 coin): fursad ma jirto
+2026-10-30 22:05:07 | DEBUG | BTCUSDT: EMA20 jiirad -0.241% (aad u yar)
+2026-10-30 22:05:07 | DEBUG | ETHUSDT: EMA20 jiirad -0.134% (aad u yar)
+2026-10-30 22:05:08 | DEBUG | SOLUSDT: EMA20 jiirad -0.129% (aad u yar)
+2026-10-30 22:05:08 | DEBUG | XRPUSDT: EMA20 jiirad -0.121% (aad u yar)
+2026-10-30 22:05:09 | DEBUG | BNBUSDT: EMA20 jiirad -0.154% (aad u yar)
+2026-10-30 22:05:11 | DEBUG | LINKUSDT: EMA20 jiirad -0.080% (aad u yar)
+2026-10-30 22:05:13 | DEBUG | NEARUSDT: EMA20 jiirad -0.084% (aad u yar)
+2026-10-30 22:05:15 | DEBUG | SUIUSDT: EMA20 jiirad -0.277% (aad u yar)
+2026-10-30 22:05:15 | DEBUG | AAVEUSDT: EMA20 jiirad -0.030% (aad u yar)
+2026-10-30 22:05:16 | DEBUG | UNIUSDT: EMA20 jiirad -0.205% (aad u yar)
+2026-10-30 22:05:17 | DEBUG | DOGEUSDT: EMA20 jiirad -0.285% (aad u yar)
+2026-10-30 22:05:17 | DEBUG | ADAUSDT: EMA20 jiirad -0.200% (aad u yar)
+2026-10-30 22:05:18 | DEBUG | TRXUSDT: EMA20 jiirad -0.272% (aad u yar)
+2026-10-30 22:05:19 | DEBUG | ONDOUSDT: EMA20 jiirad -0.029% (aad u yar)
+2026-10-30 22:05:21 | DEBUG | MNTUSDT: EMA20 jiirad -0.269% (aad u yar)
+2026-10-30 22:05:23 | DEBUG | LTCUSDT: EMA20 jiirad -0.291% (aad u yar)
+2026-10-30 22:05:24 | DEBUG | WLDUSDT: EMA20 jiirad -0.603% (aad u yar)
+2026-10-30 22:05:24 | DEBUG | HYPEUSDT: EMA20 jiirad -0.430% (aad u yar)
+2026-10-30 22:05:25 | DEBUG | QNTUSDT: EMA20 jiirad -0.453% (aad u yar)
+2026-10-30 22:05:25 | INFO | Scan dhammaaday (19 coin): fursad ma jirto
+2026-10-30 22:18:01 | INFO | === BYBIT SPOT BOT | LIVE=True | TESTNET=False | 50 USDT/trade | SCAN INTERVAL = 30 MIN ===
+2026-10-30 22:18:02 | INFO | USDT: wadar 71.98 | bilaash 71.98
+2026-10-30 22:18:08 | INFO | Coin-ka la baadhayo: 19
+2026-10-30 22:18:08 | INFO | Trade-yada furan: ma jiraan
+2026-10-30 22:18:08 | DEBUG | BTCUSDT: shumaca xaqiijinta waa duug
+2026-10-30 22:18:09 | DEBUG | ETHUSDT: shumaca xaqiijinta waa duug
+2026-10-30 22:18:09 | DEBUG | SOLUSDT: shumaca xaqiijinta waa duug
+2026-10-30 22:18:10 | DEBUG | XRPUSDT: shumaca xaqiijinta waa duug
+2026-10-30 22:18:11 | DEBUG | BNBUSDT: shumaca xaqiijinta waa duug
+2026-10-30 22:18:11 | DEBUG | LINKUSDT: shumaca xaqiijinta waa duug
+2026-10-30 22:18:12 | DEBUG | NEARUSDT: shumaca xaqiijinta waa duug
+2026-10-30 22:18:12 | DEBUG | SUIUSDT: shumaca xaqiijinta waa duug
+2026-10-30 22:18:13 | DEBUG | AAVEUSDT: shumaca xaqiijinta waa duug
+2026-10-30 22:18:13 | DEBUG | UNIUSDT: shumaca xaqiijinta waa duug
+2026-10-30 22:18:14 | DEBUG | DOGEUSDT: shumaca xaqiijinta waa duug
+2026-10-30 22:18:15 | DEBUG | ADAUSDT: shumaca xaqiijinta waa duug
+2026-10-30 22:18:16 | DEBUG | TRXUSDT: shumaca xaqiijinta waa duug
+2026-10-30 22:18:17 | DEBUG | ONDOUSDT: shumaca xaqiijinta waa duug
+2026-10-30 22:18:17 | DEBUG | MNTUSDT: shumaca xaqiijinta waa duug
+2026-10-30 22:18:18 | DEBUG | LTCUSDT: shumaca xaqiijinta waa duug
+2026-10-30 22:18:18 | DEBUG | WLDUSDT: shumaca xaqiijinta waa duug
+2026-10-30 22:18:19 | DEBUG | HYPEUSDT: shumaca xaqiijinta waa duug
+2026-10-30 22:18:19 | DEBUG | QNTUSDT: shumaca xaqiijinta waa duug
+2026-10-30 22:18:19 | INFO | Scan dhammaaday (19 coin): fursad ma jirto
+2026-10-30 22:18:19 | INFO | Scan-kii waa dhamaaday. Bot-ku wuxuu sugayaa 30 daqiiqo (1800 sec) scan-ka xiga...
