@@ -1,0 +1,45 @@
+==================================================
+PIONEX SPOT TRADING BOT — SYSTEM REQUIREMENTS
+==================================================
+
+1. GENERAL REQUIREMENTS & ARCHITECTURE
+- Language: Python
+- Exchange: Pionex Spot Trading
+- Authentication: API Key and Secret Key securely loaded from a .env file.
+- Execution Mode: Automated background scanning and trading.
+
+2. BOT OPERATING RULES & LIMITS
+- Scan Frequency: Automatically scans the market every 5 minutes.
+- Position Limits: Maximum of 3 open trades simultaneously. No fourth trade can be opened until at least one existing trade is closed.
+- Duplicate Prevention: The bot must not open multiple trades on the same coin (no duplicate active coins).
+- Trade Amount: Exactly 50 USDT per trade.
+- Trade Cycle: Once a trade is closed, the bot must immediately resume searching for a new valid trade opportunity.
+
+3. COIN FILTERING CRITERIA
+- Target Pool: Top 20 coins filtered from the market.
+- Minimum 24h Volume: >= 8,000,000 USDT.
+- Liquidity: High liquidity with tight bid-ask spread (<= 0.10%).
+- Trading Pair: USDT Spot pairs only.
+
+4. EMA 20 SCALPING STRATEGY (BUY ONLY)
+- Indicator: EMA 20 on a 5-Minute (5M) timeframe.
+- Trend Measurement: EMA 20 slope compared to 5 candles ago must be at least +0.10%.
+- Trend Candles: At least 4 consecutive completed candles where each candle's Low is above EMA 20.
+- Pullback: Price pulls back to touch EMA 20.
+- Confirmation Candle: A bullish candle closing above EMA 20.
+- Candle Strength: The candle body must be >= 60% of its total high-to-low range.
+- Entry Price: Open trade at the beginning of the next candle after confirmation.
+
+5. RISK MANAGEMENT (SL & TP)
+- Stop Loss (SL): Placed slightly below the Swing Low of the pullback.
+- Take Profit (TP): Calculated as Entry + 2 * (Entry - SL).
+- Risk-to-Reward Ratio: 1:2.
+
+6. INVALID CONDITIONS (WHEN NOT TO BUY)
+- EMA 20 slope is insufficient (< +0.10%).
+- Any of the 4 trend candles touched EMA 20.
+- Price did not make a proper pullback.
+- Confirmation candle body is less than 60%.
+- Confirmation candle closes on the wrong side of EMA 20.
+- SL cannot be calculated or risk exceeds allowed limits.
+==================================================
