@@ -1,0 +1,2 @@
+# spot-trading
+bot
